@@ -9,4 +9,5 @@ https://disk.pku.edu.cn/#/link/88F0D3C9839329210503C7E50634AAFE
 pip install -r requirements.txt
 ```
 ### 食用方法
+from asoulgenerator import asoulgenerate
 prefix,generated = asoulgenerate.process(str)
