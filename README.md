@@ -10,4 +10,5 @@ pip install -r requirements.txt
 ```
 ### 食用方法
 from asoulgenerator import asoulgenerate
+
 prefix,generated = asoulgenerate.process(str)
